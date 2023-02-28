@@ -5,7 +5,7 @@
         <name>ListView</name>
     </types>
     <types>
-        <members>*</members>
+        <members>New_Account_Flow</members>
         <name>Flow</name>
     </types>
     <version>56.0</version>
