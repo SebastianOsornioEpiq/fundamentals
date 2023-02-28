@@ -33,7 +33,7 @@
         <allowPause>true</allowPause>
         <fields>
             <name>Account</name>
-            <fieldText>&lt;p&gt;New Account Created Successfully&lt;/p&gt;</fieldText>
+            <fieldText>&lt;p&gt;New Account Created Successfully&lt;/p&gt;&lt;p&gt;Add new message&lt;/p&gt;</fieldText>
             <fieldType>DisplayText</fieldType>
         </fields>
         <showFooter>true</showFooter>

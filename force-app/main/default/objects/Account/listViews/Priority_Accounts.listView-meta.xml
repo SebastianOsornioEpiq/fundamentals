@@ -9,9 +9,9 @@
     <columns>CORE.USERS.ALIAS</columns>
     <filterScope>Mine</filterScope>
     <filters>
-        <field>ACCOUNT.ADDRESS1_STATE</field>
+        <field>ACCOUNT.TYPE</field>
         <operation>equals</operation>
-        <value>NY</value>
+        <value>Customer - Direct</value>
     </filters>
     <label>Priority Accounts</label>
 </ListView>
